@@ -1,0 +1,1 @@
+The purpose of this repository is to gain some practice with writing/using python to pull data from the internet and to also brush up on using pandas and numpy.
